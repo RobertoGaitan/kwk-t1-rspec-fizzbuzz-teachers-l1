@@ -1,4 +1,4 @@
-require_relative './spec_helper.rb'
+require_relative './spec/spec_helper.rb'
 
 def fizzbuzz(int)
   if int % 3 == 0
